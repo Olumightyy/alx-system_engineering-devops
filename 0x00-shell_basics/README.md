@@ -1,1 +1,1 @@
-for example: script that prints the absolute path of the current working directory
+script that prints the absolute path of the current working directory
